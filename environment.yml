@@ -1,0 +1,6 @@
+name: excel_to_python
+dependencies:
+  - pandas=0.18.1
+  - pip:
+    - seaborn==0.7.1
+    - jupyter==1.0.0
